@@ -1,0 +1,9 @@
+Aug 30 10:14:21 server sshd[1012]: Failed password for invalid user admin from 192.168.1.10 port 41231 ssh2
+Aug 30 10:15:03 server sshd[1015]: Failed password for root from 192.168.1.10 port 41244 ssh2
+Aug 30 10:15:48 server sshd[1018]: Invalid user test from 10.0.0.15 port 50122
+Aug 30 10:16:17 server sshd[1021]: Failed password for invalid user oracle from 192.168.1.10 port 41280 ssh2
+Aug 30 10:17:02 server sshd[1024]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=172.16.0.8
+Aug 30 10:18:11 server sshd[1027]: Accepted publickey for ec2-user from 10.0.0.20 port 51000 ssh2
+Aug 30 10:19:42 server sshd[1030]: Failed password for admin from 172.16.0.8 port 53321 ssh2
+Aug 30 10:20:06 server sshd[1033]: Invalid user guest from 10.0.0.15 port 50210
+Aug 30 10:21:55 server sshd[1036]: Failed password for invalid user deploy from 192.168.1.10 port 41301 ssh2
